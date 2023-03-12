@@ -3,7 +3,7 @@ import Header from "./Header";
 import Content from "./Content";
 import Total from "./Total";
 
-const App = () => {
+const App1 = () => {
   const courses = {
       id: 1,
       name: "Half Stack application development",
@@ -40,4 +40,4 @@ const App = () => {
   );
 }
 
-export default App;
+export default App1;
